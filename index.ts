@@ -1,5 +1,4 @@
-
-// const { Telegraf } = require("telegraf")
+require("./config")
 import keep_alive from "./keep_alive"
 const { Telegraf } = require("telegraf");
 
